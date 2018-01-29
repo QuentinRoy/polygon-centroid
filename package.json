@@ -1,0 +1,31 @@
+{
+  "name": "@quentinroy/polygon-centroid",
+  "version": "0.1.0",
+  "description": "Chunk an array into successive pairs.",
+  "main": "index.js",
+  "files": [],
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuentinRoy/polygon-centroid.git"
+  },
+  "keywords": [
+    "array",
+    "pairs",
+    "pairwise"
+  ],
+  "author": "Quentin Roy <quentin@quentinroy.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuentinRoy/polygon-centroid/issues"
+  },
+  "homepage": "https://github.com/QuentinRoy/polygon-centroid",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "engines": {
+    "node": ">=6.4.0"
+  }
+}
