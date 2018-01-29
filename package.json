@@ -5,7 +5,7 @@
   "main": "index.js",
   "files": [],
   "scripts": {
-    "test": "nyc ava"
+    "test": "nyc --reporter=text --reporter=lcovonly ava"
   },
   "repository": {
     "type": "git",
