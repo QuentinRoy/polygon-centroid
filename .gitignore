@@ -86,3 +86,7 @@ $RECYCLE.BIN/
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
+# nyc files
+coverage
+.nyc_output

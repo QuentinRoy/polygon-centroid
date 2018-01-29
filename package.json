@@ -5,7 +5,7 @@
   "main": "index.js",
   "files": [],
   "scripts": {
-    "test": "ava"
+    "test": "nyc --reporter=text --reporter=lcovonly ava"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/QuentinRoy/polygon-centroid",
   "devDependencies": {
-    "ava": "^0.25.0"
+    "ava": "^0.25.0",
+    "nyc": "^11.4.1"
   },
   "engines": {
     "node": ">=6.4.0"
