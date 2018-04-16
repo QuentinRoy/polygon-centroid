@@ -12,9 +12,8 @@
     "url": "https://github.com/QuentinRoy/polygon-centroid.git"
   },
   "keywords": [
-    "array",
-    "pairs",
-    "pairwise"
+    "centroid",
+    "polygon"
   ],
   "author": "Quentin Roy <quentin@quentinroy.fr>",
   "license": "MIT",
