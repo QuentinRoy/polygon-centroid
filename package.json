@@ -1,6 +1,6 @@
 {
   "name": "@quentinroy/polygon-centroid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chunk an array into successive pairs.",
   "main": "index.js",
   "files": [],
