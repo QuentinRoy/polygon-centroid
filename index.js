@@ -1,5 +1,5 @@
-// Small utility that sum the results of a function f successively call with
-// the elements of array taken two by two.
+// Small utility that sum the results of a function f successively called 
+// with the elements of an array taken two by two.
 const pairwiseSumReduce = (array, f, init = 0) => {
   const n = array.length;
   return array.reduce((acc, p, i) => {
